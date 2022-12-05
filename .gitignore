@@ -1,0 +1,5 @@
+# JetBrain Stuff
+.idea
+**/*.iml
+
+.DS_Store
