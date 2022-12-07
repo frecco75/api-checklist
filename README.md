@@ -133,6 +133,7 @@ See:
 - [ ] Conception as Code / Diagram as Code
 - [ ] Infra as Code
 - [ ] CI / CD
+- [ ] Package management (nexus, artifactory, github packages..)
 - [ ] GitOps / FinOps / DevSecOps / SRE
 - [ ] Monitoring
 - [ ] Tracing
