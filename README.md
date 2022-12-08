@@ -113,7 +113,7 @@ See:
 # Architecture
 
 * Scalability
-- [ ] reverse proxy (cloudflare)
+- [ ] CDN / reverse proxy (cloudflare)
 - [ ] Message broker
 - [ ] NoSQL
 - [ ] Indexation
