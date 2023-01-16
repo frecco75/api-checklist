@@ -75,6 +75,7 @@ Cheat Sheets:
 - [ ] Backward compatibility testing
 - [ ] Fuzz tests
 - [ ] Monkey tests
+- [ ] Architecture tests
 * Global Scope
 - [ ] Smoke tests
 - [ ] Sanity tests
