@@ -61,7 +61,7 @@ Cheat Sheets:
 - [ ] wrapper (mvnw, gradlew)
 - [ ] Bootstrapping (yeoman, jhipster, github templates...)
 - [ ] Code generation (mapstruct, lombok, javapoet/kotlinpoet...)
-- [ ] Mocking / Stubbing
+- [ ] Mocking / Stubbing: Wiremock, Mockserver, [Microcks](https://microcks.io/)
 
 
 # Tests
