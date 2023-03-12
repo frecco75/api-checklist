@@ -54,7 +54,7 @@ Cheat Sheets:
 - [ ] Git Flow
 * Quality
 - [ ] Code Analysis
-- [ ] Dependencies analysis (jdeps)
+- [ ] Dependencies analysis (jdeps, dependabot, renovate)
 - [ ] Linter
 - [ ] git hooks
 * Productivity
