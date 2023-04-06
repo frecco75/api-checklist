@@ -132,6 +132,8 @@ Cheat Sheets:
 - [ ] Distributed transactions
 - [ ] Bucket S3 / Cloud Storage
 - [ ] RGPD
+* Documentation
+- [ ] [C4 models](https://c4model.com)
 
 # Infra
 
