@@ -37,7 +37,7 @@ Cheat Sheets:
 
 * Documentation
 - [ ] Readme
-- [ ] Code documentation
+- [ ] Code documentation: plantUML, mermaid JS
 - [ ] Conventional Commit
 - [ ] Generation of Release notes
 * Design
