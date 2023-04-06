@@ -133,7 +133,7 @@ Cheat Sheets:
 - [ ] Bucket S3 / Cloud Storage
 - [ ] RGPD
 * Documentation
-- [ ] [C4 models](https://c4model.com)
+- [ ] [C4 model](https://c4model.com)
 
 # Infra
 
