@@ -77,8 +77,7 @@ Cheat Sheets:
 - [ ] Fuzz tests
 - [ ] Monkey tests
 - [ ] Architecture tests
-- [ ] Golden Master: https://www.softfluent.fr/blog/tout-ce-quil-faut-savoir-sur-golden-master-testing/
-See [Approval tests](https://approvaltests.com)
+- [ ] [Golden Master](https://www.softfluent.fr/blog/tout-ce-quil-faut-savoir-sur-golden-master-testing/) - See [Approval tests](https://approvaltests.com)
 * Global Scope
 - [ ] Smoke tests
 - [ ] Sanity tests
