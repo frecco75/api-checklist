@@ -37,7 +37,7 @@ Cheat Sheets:
 
 * Documentation
 - [ ] Readme
-- [ ] Code documentation: plantUML, mermaid JS
+- [ ] Code documentation: plantUML, mermaid JS, [diagram-as-code](https://github.com/mingrammer/diagrams)
 - [ ] Conventional Commit
 - [ ] Generation of Release notes
 * Design
