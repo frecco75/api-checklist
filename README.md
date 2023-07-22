@@ -20,6 +20,7 @@ Cheat Sheets:
 - [ ] Multi-tenancy
 - [ ] Content negotiation
 - [ ] Pagination / Filtering (RSQL)
+- [ ] Sidecar pattern
 * Security
 - [ ] Authentication (OAuth2, OWASP)
 - [ ] Scopes / Roles / Privileges
@@ -32,6 +33,9 @@ Cheat Sheets:
 - [ ] Rate limiting / Throttling
 - [ ] Circuit breaker
 - [ ] Feature toggle
+- [ ] Strangler Fig pattern
+- [ ] Bulkhead pattern
+- [ ] Retry
 
 # Coding style
 
@@ -125,14 +129,17 @@ Cheat Sheets:
 - [ ] Indexation
 - [ ] serverless
 - [ ] low code / no code
+- [ ] Service discovery
+- [ ] Configuration externalization
 * Consistency
 - [ ] SSO
 - [ ] IAM / CIAM
 - [ ] Single source of truth
 - [ ] ELK
-- [ ] Distributed transactions
+- [ ] Distributed transactions / Saga pattern
 - [ ] Bucket S3 / Cloud Storage
 - [ ] RGPD
+- [ ] Event-driven architecture
 * Documentation
 - [ ] [C4 model](https://c4model.com)
 
