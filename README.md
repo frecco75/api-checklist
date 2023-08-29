@@ -171,3 +171,4 @@ Cheat Sheets:
 - [ ] OpenAI
 - [ ] code with me
 - [ ] Postman / Hoppscotch
+- [ ] Code templates
