@@ -45,7 +45,7 @@ Cheat Sheets:
 - [ ] Conventional Commit
 - [ ] Generation of Release notes
 * Design
-- [ ] Hexagonal architecture
+- [ ] Domain centric architecture (hexagonal, onion, clean, domain-driven hexagon)
 - [ ] Functional programming
 - [ ] event-driven development
 - [ ] event sourcing
