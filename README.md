@@ -168,8 +168,7 @@ Cheat Sheets:
 
 # Tools to improve productivity
 
-- [ ] Copilot
-- [ ] OpenAI
+- [ ] Copilot / OpenAI / AI assistant
 - [ ] code with me
 - [ ] Postman / Hoppscotch
 - [ ] Code templates
