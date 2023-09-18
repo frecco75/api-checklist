@@ -166,6 +166,10 @@ Cheat Sheets:
 - [ ] Trivy
 - [ ] Dependabot
 
+# Methods
+- [ ] Fail & Learn
+- [ ] Fake it until you make it
+
 # Tools to improve productivity
 
 - [ ] Copilot / OpenAI / AI assistant
