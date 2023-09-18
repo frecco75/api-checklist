@@ -74,6 +74,7 @@ Cheat Sheets:
 * Application scope
 - [ ] Unit tests
 - [ ] Component tests
+- [ ] Property based tests
 - [ ] Acceptance tests
 - [ ] Mutation tests
 - [ ] A/B Tests
