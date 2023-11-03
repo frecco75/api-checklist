@@ -61,6 +61,7 @@ Cheat Sheets:
 - [ ] Dependencies analysis (jdeps, dependabot, renovate)
 - [ ] Linter
 - [ ] git hooks
+- [ ] frameworks and component up to date - check [end of life](https://endoflife.date)
 * Productivity
 - [ ] version management (jabba, SDK man, nvm)
 - [ ] wrapper (mvnw, gradlew)
