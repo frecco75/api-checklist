@@ -144,6 +144,9 @@ Cheat Sheets:
 - [ ] Event-driven architecture
 * Documentation
 - [ ] [C4 model](https://c4model.com)
+- [ ] UML
+- [ ] MERISE
+- [ ] DAT
 
 # Infra
 
