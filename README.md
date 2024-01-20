@@ -112,6 +112,7 @@ Cheat Sheets:
 
 * Design
 - [ ] BEM approach
+- [ ] ITCSS
 - [ ] Atomic Design
 - [ ] Design System
 - [ ] Storybook
