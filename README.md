@@ -67,6 +67,8 @@ Cheat Sheets:
 - [ ] wrapper (mvnw, gradlew)
 - [ ] Bootstrapping (yeoman, jhipster, github templates...)
 - [ ] Code generation (mapstruct, lombok, javapoet/kotlinpoet...)
+- [ ] run.sh / install.sh or docker-compose
+- [ ] .run and .env configurations
 - [ ] Mocking / Stubbing: Wiremock, Mockserver, [Microcks](https://microcks.io/)
 
 
