@@ -141,7 +141,7 @@ Cheat Sheets:
 - [ ] IAM / CIAM
 - [ ] Single source of truth
 - [ ] ELK
-- [ ] Distributed transactions / Saga pattern
+- [ ] Distributed transactions / Saga pattern / Two-Phase Commit
 - [ ] Bucket S3 / Cloud Storage
 - [ ] RGPD
 - [ ] Event-driven architecture
