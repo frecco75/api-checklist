@@ -62,6 +62,7 @@ Cheat Sheets:
 - [ ] Linter
 - [ ] git hooks
 - [ ] frameworks and components up to date - check [end of life](https://endoflife.date)
+- [ ] Backward compatibility / Binary compatibility
 * Productivity
 - [ ] version management (jabba, SDK man, nvm)
 - [ ] wrapper (mvnw, gradlew)
