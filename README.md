@@ -46,6 +46,7 @@ Cheat Sheets:
 - [ ] Generation of Release notes
 * Design
 - [ ] Domain centric architecture (hexagonal, onion, clean, domain-driven hexagon)
+- [ ] Screaming architecture
 - [ ] Functional programming
 - [ ] event-driven development
 - [ ] event sourcing
