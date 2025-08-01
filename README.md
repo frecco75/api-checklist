@@ -100,6 +100,7 @@ Cheat Sheets:
 - [ ] Performance tests
 - [ ] Soak tests
 - [ ] Load tests
+- [ ] Caching layers, Distributed caching, indexing...
 
 # DATABASE
 
