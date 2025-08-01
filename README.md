@@ -19,7 +19,7 @@ Cheat Sheets:
 - [ ] i18n / context headers
 - [ ] Multi-tenancy
 - [ ] Content negotiation
-- [ ] Pagination / Filtering (RSQL)
+- [ ] Pagination / Filtering
 - [ ] Sidecar pattern
 * Security
 - [ ] Authentication (OAuth2, OWASP)
