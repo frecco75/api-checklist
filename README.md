@@ -176,6 +176,12 @@ Cheat Sheets:
 - [ ] Trivy
 - [ ] Dependabot
 
+# IA integration
+
+- [ ] MCP
+- [ ] IA Agents
+- [ ] Chatbot
+
 # Methods
 - [ ] Fail & Learn
 - [ ] Fake it until you make it
