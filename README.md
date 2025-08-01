@@ -161,7 +161,7 @@ Cheat Sheets:
 - [ ] CI / CD
 - [ ] Package management (nexus, artifactory, github packages..)
 - [ ] GitOps / FinOps / DevSecOps / SRE
-- [ ] Monitoring
+- [ ] Observability / Monitoring : OTel
 - [ ] Tracing
 - [ ] Profiling
 - [ ] Canary Release
