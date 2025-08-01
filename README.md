@@ -110,6 +110,7 @@ Cheat Sheets:
 - [ ] Kafka connect / streams
 - [ ] Debezium (CDC)
 - [ ] Outbox pattern
+- [ ] SAGA (choreography vs orchestration)
 - [ ] Database schema changes (liquibase)
 
 # Front
