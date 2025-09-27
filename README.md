@@ -182,6 +182,7 @@ Cheat Sheets:
 - [ ] MCP
 - [ ] IA Agents
 - [ ] Chatbot
+- [ ] [AI list](https://www.aixploria.com/en/ultimate-list-ai)
 
 # Methods
 - [ ] Fail & Learn
