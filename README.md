@@ -48,7 +48,7 @@ Cheat Sheets:
 - [ ] Domain centric architecture (hexagonal, onion, clean, domain-driven hexagon)
 - [ ] Screaming architecture
 - [ ] Functional programming
-- [ ] event-driven development
+- [ ] event-driven architecture (SAGA, outbox...)
 - [ ] event sourcing
 - [ ] CQRS
 * Practices
